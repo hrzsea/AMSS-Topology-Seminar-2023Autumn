@@ -6,7 +6,7 @@
 
 ### <font color=Peru size=3> 杨聚鑫（BIMSA） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Jan. 10, 2024 </font>
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jan. 08, 2024 </font>
 
 Place: N802
 
