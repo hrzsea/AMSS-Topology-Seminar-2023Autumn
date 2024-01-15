@@ -1,184 +1,239 @@
-# This page records the AMSS Topology Seminar in Autumn Semester 2022
+# This page records the AMSS Topology Seminar in Autumn Semester 2023
 
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
 
-### <font color=Peru size=3> 燕汝佳（AMSS） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 28, 2022</font>
+### <font color=Peru size=3> 杨聚鑫（BIMSA） </font>
 
-Place: 747-737-156
-
-Title: The Stable Picard Group of A(n)
-
-
-Abstract: In 1976, Adams calculated the Picard group of A(1) in “Uniqueness of BSO”, and it was not until 2017 that the conclusion of A(2) appeared. In the case of n greater than 2, it was initially impossible to determine whether its Picard group is finitely generated.  In this talk, the Picard groups for all A(n) will be given. The method relies on reductions from a Hopf algebra to its proper Hopf subalgebras.
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 罗月桐（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 21, 2022</font>
-
-Place: 898 465 270
-
-Title: Borel conjecture for tori
-
-
-Abstract: The Borel conjecture considers the obstruction from homotopy equivalence to homeomorphism for aspherical manifolds. The torus is the first computed case of Borel conjecture with the idea of splitting used in the computation. In this talk I will review the basic results of surgery theory and prove the Borel conjecture for torus following Shanneson and Hsiang’s calculation. Moreover, the further Farrell’s splitting for structure set gives us further tools in the proof of more complicated case of Borel conjecture.
-
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 李友林（上海交通大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
-
-Place: 306-836-756
-
-Title: Symplectic fillings of lens spaces and Seifert fibered spaces  
-
-
-Abstract: In this talk, we apply Menke's JSJ decomposition for symplectic fillings to several families of contact 3-manifolds. Among other results, we complete the classification up to orientation-preserving diffeomorphism of strong symplectic fillings of lens spaces. For large families of contact structures on Seifert fibered spaces over S^2, we reduce the problem of classifying exact symplectic fillings to the same problem for universally tight or canonical contact structures. We show that exact symplectic fillings of contact manifolds obtained by surgery on certain Legendrian negative cables are the result of attaching a symplectic 2-handle to an exact symplectic filling of a lens space. This is joint work with Austin Christian.
-
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
-
-Place: 腾讯会议：6965463074
-
-Title: Suspension Homotopy of 4-manifolds And the Second 2-local Cohomotopy Sets
-
-
-Abstract: In this talk we study the homotopy type of the (double) suspension of an orientable, closed, connected 4-manifold M, whose integral homology can have 2-torsion. Moreover, the decomposition results are applied to give a partial characterization of the second 2-local cohomotopy set of 4-manifolds. 
-
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 林剑锋（清华大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 30, 2022</font>
-
-Place: 腾讯会议：468-144-607
-
-Title: Homological instability for the moduli space of smooth 4-manifolds 
-
-
-Abstract: The moduli space of a smooth manifold X is defined to be the classifying space of its diffeomorphism group. Understanding the cohomology group of this space is important because elements in this group one-to-one correspond to characteristic classes for smooth bundles with fiber X. A celebrated result of Harer states that homology groups of the moduli spaces of Riemann surfaces stabilize if one fixes a degree and increases the genus. Galatius and Randal-Williams established analogous homological stability for moduli spaces of manifolds of even dimension at least 6. In this talk, we will show that homological stability fails for the moduli space of any simply-connected closed smooth 4-manifold in any degree of homology. The central tool is a characteristic class constructed using Seiberg-Witten equations, which detects the subtle difference between the topological category and the smooth category of 4-manifolds. This is a joint work with Hokuto Konno.
-
-
--------------------------------------------------------------------------------------------
-### <font color=Peru size=3> 柳翔（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
-
-Place: 701 801 036
-
-Title: Linked periodic orbits of disc homeomorphisms
-
-
-Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant sets of a surface self-map. Most of the known results of linked periodic orbits are about an orbit linked with a fixed point. In this talk, based on the forcing relation of braids, we present a method for finding periodic orbits which are linked with a given periodic orbit of an orientation-preserving homeomorphism of the disc. New examples are provided.
-
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 高鸿灏（清华大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
-
-Place: N533
-
-Title: Legendrian knots and cluster algebras via augmentations
-
-
-Abstract: Legendrian knots and their exact Lagrangian fillings are central objects to study in low dimensional contact and symplectic topology. In recent developments, cluster algebras have proven to be powerful tools to classify Lagrangian fillings. For a positive braid link, we introduce a cluster K2 structure on its augmentation variety.  Using the perspective of Ekholm-Honda-Kalman theory, we prove that admissible exact Lagrangian fillings, a subset of decomposable ones, induce cluster seeds in the cluster K2 augmentation variety. We provide an algorithm to compute these cluster seeds. We also use the cluster Donaldson-Thomas transformation to produce infinitely many Lagrangian fillings. This is a joint work with L. Shen and D. Weng.
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 王中子（北京大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
-
-Place: N533
-
-Title: Degree one maps between 4-manifolds with cyclic fundament groups
-
-
-Abstract: I will present some results on the existence and finiteness of degree one maps between 4-manifolds with cyclic fundamental groups, as well as the relation between 1-domination and Euler characteristics. This is based on a joint work with Yang Su and Shicheng Wang.
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 刘文奡（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 26, 2022</font>
-
-Place: N533
-
-Title: Rigidity and vanishing of elliptic genera of complex manifolds
-
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 桂弢（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 19, 2022</font>
-
-Place: N533
-
-Title: Equivariant cohomology, localization formula and moment graph
-
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 张俊（中科大）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 28, 2022</font>
-
-Place: 腾讯会议 295965402
-
-Title: Triangulated persistence category in symplectic geometry
-
-
-Abstract: In this talk, we will introduce a new algebraic structure called triangulated persistence category (TPC). A TPC combines the persistence module structure (from topological data analysis) and the classical triangulated structure so that a meaningful measurement, via cone decomposition, can be defined on the set of objects. Moreover, a TPC structure allows us to define non-trivial pseudo-metrics on its Grothendieck group, which is the first time that people can study a Grothendieck group in terms of the metric geometry. Finally, we will illustrate several unexpected properties of a TPC via its supporting example in symplectic geometry, the derived Fukaya category. In particular, we can distinguish classes in the Grothendieck group of a derived Fukaya category from a quantitative perspective. This is based on joint work with Paul Biran and Octav Cornea.
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 桂弢（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 21, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Jan. 10, 2024 </font>
 
 Place: N802
 
-Title: Shadows of Hodge Theory (or: Never Underestimate Symmetry!)
+Title: An Introduction of the Classical Toda Bracket Theory
 
 
-Abstract: This talk aims to advertise a pattern/phenomenon that has emerged in many different mathematical areas during the past decades but is not currently well-understood. I will begin with a broad overview of the Kahler packages (Poincare duality, Hard Lefschetz, and Hodge-Riemann relations) that appear in geometry, algebra, and combinatorics, from the classics of Lefschetz to the recent work of this year's Fields medalist June Huh, in a down-to-earth way. Then I will discuss two new Kahler packages we discovered that are equivariant and have no geometric origin. The equivariant log-concavity in representation theory hints at our discoveries. This talk will be non-technical and accessible to the general audience: nothing will be assumed other than elementary linear algebra. Partly based on joint work with Rui Xiong.
+Abstract: Toda bracket is an art of constructing homotopy liftings and homotopy extensions of maps, it plays a fundamental role on dealing with composition relations of homotopy classes, there are both classical and category-theoretic descriptions of Toda bracket, and it’s the one of the most important tools to determine homotopy groups. In this talk, we will introduce some properties of this important tool based on the classical view, and introduce some developments and applications of Toda bracket theory we got in recent years.
+
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 付鑫（BIMSA） </font>
 
-### <font color=Peru size=3> 江怡（清华大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 14, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 27, 2023 </font>
 
 Place: N802
 
-Title: Free circle actions on highly connected (2n+1)- manifolds
+Title: The quotient spaces of moment-angle complexes
 
 
-Abstract: A natural problem in topology is to determine which manifolds admit certain group actions. The problem we concern in this talk is to determine which highly connected (2n+1)-manifolds admit free circle actions. I will introduce some previous work and our progress on this problem.
-
+Abstract: Buchstaber-Panov introduced the notion of the moment-angle complex Z. It is defined by a union of certain product spaces of discs and circles with a natural action of a torus T. Topologically, a moment-angle complex allows us to understand a simplicial toric variety as its quotient Z/H, where H is a closed subgroup of T. The computation of the cohomology groups and cup products for such quotient spaces involves using techniques from combinatorics, algebras, and homotopy theory with applications in other fields. This talk summarises known results and problems in the research field of toric topology and reports on recent progress.
 
 -------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 张凝川（Indiana） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Dec. 27, 2023 </font>
+
+Place: N933
+
+Title: Equivariant algebraic K-theory and L-functions of Galois representations
+
+
+Abstract: The profound connection between the algebraic K-theory and zeta functions was first hinted in two classical results in algebraic number theory: Dirichlet’s unit theorem and the class number formula. Those results were later generalized to Borel’s theorem on ranks of algebraic K-groups of number fields and the celebrated Quillen-Lichtenbaum Conjecture (QLC), proved by Voevodsky and Rost.
+ 
+In this talk, I will explain how to generalize the QLC to L-functions associated to Galois representations of finite, function, and number fields. On the K-theory side, we twist equivariant algebraic K-theory with equivariant Moore spectra associated to Galois representations. Those equivariant algebraic K-groups with coefficients in Galois representations are then computed by an equivariant Atiyah-Hirzebruch spectral sequence. This is joint work in progress with Elden Elmanto.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 周嘉伟（BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 20, 2023 </font>
+
+Place: N802
+
+Title: The Formality of Sphere Bundles
+
+
+Abstract: A manifold is called formal when it shares the same rational homotopy type as its cohomology ring. We first study the formality of a sphere bundle over a formal manifold. In this case the formality can be totally determined by the Bianchi-Massey tensor, a 4-tensor on a subspace of the cohomology ring, initially introduced by Crowley and Nordstrom. As a special case, we observe that if a manifold and its unit tangent bundle are both formal, then the manifold has either a zero Euler characteristic or a rational cohomology ring generated by one element. Lastly, we delve into the scenario of a general base manifold, presenting an obstruction of formality.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 林剑锋（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 06, 2023 </font>
+
+Place: N802
+
+Title: On configuration space integrals
+
+
+Abstract: In this talk, I will first recall the configuration space integral for classical knots, a powerful invariant first proposed by Kontsevich and further studied by many people including Bott, Taubes and Thurston. Then I will talk about Watanabe's work on the 4-dimensional Smale conjecture on the diffeomorphism group of disks. In the end, I will briefly discuss a joint work with Yi Xie regarding relation between configuration space integral and formal smooth structures. This gives an evidence towards a more general conjecture about the relation between configuration space integrals, little disk operad and embedding calculus.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 邹佛灵（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 29, 2023 </font>
+
+Place: N802
+
+Title: Unital operads, monoids and monads
+
+
+Abstract: Operads have played an important role in both topology and algebra. It
+is well known that operads may be viewed as monoids in symmetric sequences. In
+topology, it is often sensible to work with unital operads and their (reduced) monads.
+I will discuss a variant of symmetric sequences monoids in which give unital operads.
+This is joint work with Peter May and Ruoqi Zhang.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 孙善忠（首都师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 22, 2023 </font>
+
+Place: N802
+
+Title: Modularity of WRT invariants via resurgence theory
+
+
+Abstract: We will talk about the (quantum) modularity of WRT invariants or GPPV invariants in general of Seifert fibered homology spheres. It turns out that they are related to the Stokes phenomena of the Ohtsuki asymptotic series through resurgence theory. The talk is based on joint work with Li HAN, Yong LI and David SAUZIN.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> Taras Panov (Moscow State University) </font>
+
+### <font color=LightCoral size=3>Time: 15：30-16：30, Nov. 15, 2023 </font>
+
+Place: N802
+
+Title: Complex geometry of moment-angle manifolds
+
+Abstract: Moment-angle manifolds provide a wide class of examples of non-Kaehler compact complex manifolds with a holomorphic torus action. A complex structure on a moment-angle manifold Z is defined by a marked complete simplicial fan. When the fan is rational, the manifold Z is the total space of a holomorphic bundle over a toric variety with fibres compact complex tori. In this case, the invariants of the complex structure of Z, such Dolbeault cohomology and the Hodge numbers, can be analysed using the Borel spectral sequence of the holomorphic bundle. 
+
+In general, a complex moment-angle manifold Z is equipped with a canonical holomorphic foliation F which is equivariant with respect to the algebraic torus action. Examples of moment-angle manifolds include the Hopf manifolds, Calabi-Eckmann manifolds, and their deformations. The holomorphic foliated manifolds (Z,F) are models for irrational toric varieties.
+
+We describe the basic de Rhama and Dolbeault cohomology algebras of the canonical holomorphic foliation on a moment-angle manifold, LVMB-manifold or any complex manifold with a maximal holomorphic torus action. Namely, we show that the basic cohomology has a description similar to the cohomology algebra of a complete simplicial toric variety due to Danilov and Jurkiewicz. This settles a question of Battaglia and Zaffran, who previously computed the basic Betti numbers for the canonical holomorphic foliation in the case of a shellable fan. Our proof uses an Eilenberg-Moore spectral sequence argument; the key ingredient is the formality of the Cartan model for the torus action on a moment-angle manifold. We develop the concept of transverse equivalence and bring it to bear on the study of smooth and holomorphic foliated manifolds. For an arbitrary complex manifold with a maximal torus action, we show that it is transverse equivalent to a moment-angle manifold and therefore has the same basic cohomology.
+
+We also provide a DGA model for the ordinary Dolbeault cohomology algebra of Z. The Hodge decomposition for the basic Dolbeault cohomology is proved by reducing to the transversely Kaehler (equivalently, polytopal) case using a foliated analogue of toric blow-up.
+
+The talk is based on joint works with Hiroaki Ishida and Roman Krutowski.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 刘毅 (北京大学) </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 15, 2023 </font>
+
+Place: N802
+
+Title: Hempel pairs and Turaev Viro Invariants
+
+
+Abstract: Hempel pairs are pairs of periodic surface bundles with isomorphic profinite completions of the fundamental group. In this talk, I will discuss whether Hempel pairs have identical Turaev Viro invariants.
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3> 袁天宇（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 01, 2023 </font>
+
+Place: N802
+
+Title: A link invariant from higher-dimensional Heegaard Floer homology
+
+
+Abstract: We define a higher-dimensional analogue of symplectic Khovanov homology. Consider the standard Lefschetz fibration of a 2n-dimensional Milnor fiber of the A_{k-1} singularity. We represent a link by a k-strand braid, which is expressed as an element of the symplectic mapping class group. We then apply the higher-dimensional Heegaard Floer homology machinery to this element. We prove its invariance under arc slides and Markov stabilizations, which shows that it is a link invariant.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 谢羿（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 25, 2023 </font>
+
+Place: N802
+
+Title: Configuration space integral, graph cohomology and the diffeomorphism groups of 4-manifolds
+
+
+Abstract: In 2018, Watanabe used a version of configuration space  integral to detect non-trivial smooth families of disk bundles and disproved the 4-dimensional Smale conjecture. More precisely, he related the homotopy groups of Diff(D^4) to the so called graph cohomology. In this talk we will show that the configuration space integral only depends the formal smooth structure, i.e. a lift of the tangent microbundle to a vector bundle. As an application, we can generalize Watanabe’s result and obtain information on the diffeomorphism group of a general compact oriented 4-manifold in terms of the graph cohomology. This is joint work with Jianfeng Lin.
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李谷川（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 18, 2023 </font>
+
+Place: N802
+
+Title: From the real cobordism theory to the Kervaire invariant one problem
+
+
+Abstract: The real cobordism theory plays an important role in Hill—Hopkins—Ravenel’s solution to the Kervaire invariant one problem and leads to new computations in chromatic homotopy theory at the prime 2. I will report on my joint work in progress with Po Hu, Igor Kriz, Petr Somberg, and Foling Zou on the construction of odd prime analogues of real cobordism theory.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 李谷川（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 11, 2023</font>
+
+Place: N802
+
+Title: The inverse topology of $K(n)$-local homotopy theory
+
+
+Abstract: Homotopy theory can be studied through its $p$-localization for all primes $p$. Chromatic homotopy theory allows one to further decompose $p$-local homotopy theory into $K(n)$-local homotopy theory for all heights $n$. In this talk, we introduce an inverse topology on $K(n)$-local homotopy theory. This allow us to identify the entire E1 and E2-pages of the descent spectral sequence for Picard groups of profinite Galois extensions of the $K(n)$-local sphere. This is joint work with Ningchuan Zhang.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 陈伟彦（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 27, 2023 </font>
+
+Place: N802
+
+Title: Topological complexity of enumerative problems
+
+
+Abstract: How complex is the solution of a polynomial equation? One way to measure such complexity is provided by topological complexity in the sense of Smale, who proved that any algorithm that finds roots of a polynomial must be sufficiently complicated. However, finding roots of a polynomial is just one basic example of enumerative problems in algebraic geometry. In this talk, we will consider the problem of finding flex points on smooth cubic plane curves. We prove a lower bound for the topological complexity of this problem, and show that our bound is close to be best possible. This talk is based on joint work with Zheyan Wan.
+ 
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 沈文（首都师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 20, 2023 </font>
+
+Place: N802
+
+Title: Topological classification of Bazaikin spaces
+
+
+Abstract: Manifolds with positive sectional curvature have been a central object dates back to the beginning of Riemannian geometry. Up to homeomorphism, there are only finitely many examples of simply connected positively curved manifolds in all dimensions except in dimension 7 and 13, namely, Aloff-Wallach spaces and Eschenburg spaces in dimension 7, and the Bazaikin spaces in dimension 13. The topological classification modelled on the 7-dimensional examples has been carried out by Kreck-Stolz which leads to a complete solution for the Aloff-Wallach spaces. The main goal of this talk is the topological classification of 13-dimensional manifolds modelled on the Bazaikin spaces. 
+
+-------------------------------------------------------------------------------------------
+
+
 
 
 
